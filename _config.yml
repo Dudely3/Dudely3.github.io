@@ -1,4 +1,4 @@
-name: Personal Wiki Setup
+name: Personal Wiki
 permalink: /:title
 
 markdown: kramdown
@@ -19,3 +19,4 @@ defaults:
       importance: 5
       layout: post
       
+ url: dudely3.github.io
