@@ -1,4 +1,4 @@
-name: Personal Wiki
+name: Personal Wiki Setup
 permalink: /:title
 
 markdown: kramdown
